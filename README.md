@@ -1,3 +1,6 @@
+
+[Full Article link : Click here](https://neelshah18.github.io/project/2017-03-15-Scopus-analysis/)
+
 # scopus-analysis-for-indian-researcher
 About: The main aim of this data analysis is to identify the ongoing research in Indian Universities and Indian Industry. It gives a basic answer about research source and trend with top authors and publication. It also shows the participation of Industry and Universities in research.
 
